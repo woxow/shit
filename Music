@@ -171,67 +171,74 @@ Hank Williams III
 Keren Ann
 5'nizza
 Сергей Бабкин
+Кассиопея
+Jane Air
+Психея
+Amatory
+Dean Martin
 --------------------------------------------
 жанры:
 
-60s             		  |
-8 bit          	                  |X2
-avant-garde    	                  |X3
-art rock     	                  |Х3
-alt-country    	                  |X7
-alternative         	                  |X4
-alternative rock     	                  |X17
-alternative metal     	                  |X5
-avant garde metal                        |
-ambient                                      |X4
-acoustic                                     |X4
-a cappella                              |
-blues                 	                  |X3
-blues rock           	                  |X18
-british                                         |
-britpop                                      |
-bard                                           |Х2
-breakbeat                                    |
-cabaret                                       |X3
-country rock                               |
-country                                     |
-cover                                          |
-classical                                     |
-chanson                                     |
-desert rock                                 |
-dance punk                                 |X7
-dance rock                                  |
-dark cabaret                                |X2
-dark folk                                     |
-drum and bass                            |X2
-doom metal                                 |X2
-downtempo                                |
-electroclash                                 |X2
-electronic                                    |X12
-electronica                                   |X2
-electro                                         |X2
-electro house                               |
-electro swing                               |
-experimental rock                        |X3
-experimental                                |X6
-folk                                             |X6
-folk rock                                     |X3
-funk                                            |X5
-french house                                |
-gospel                                         |
-garage rock                                |X24
-gypsy                                        |
-gothic rock                                |
-gypsy punk                                |
-gothic americana                        |X3
-glitch hop                                  |
-glitch pop                                  |
-grunge                                       |X2
-hip hop                                      |X3
-hard rock                                  |X4
-idm                                           |X4
-indie                                          |X12
-indie rock                                  |X24
+60s             		         |
+8 bit          	           |X2
+avant-garde    	           |X3
+art rock     	             |Х3
+alt-country    	           |X7
+alternative         	      |X4
+alternative rock     	     |X19
+alternative metal     	    |X6
+avant garde metal          |
+ambient                    |X4
+acoustic                   |X4
+a cappella                 |
+blues                 	    |X3
+blues rock           	     |X18
+british                    |
+britpop                    |
+bard                       |Х2
+breakbeat                  |
+cabaret                    |X3
+country rock               |
+country                    |
+cover                      |
+classical                  |
+chanson                    |
+desert rock                |
+dance punk                 |X7
+dance rock                 |
+dark cabaret               |X2
+dark folk                  |
+drum and bass              |X2
+doom metal                 |X2
+downtempo                  |
+emocore                    |
+easy listening             |
+electroclash               |X2
+electronic                 |X12
+electronica                |X2
+electro                    |X2
+electro house              |
+electro swing              |
+experimental rock          |X3
+experimental               |X6
+folk                       |X6
+folk rock                  |X3
+funk                       |X5
+french house               |
+gospel                     |
+garage rock                |X24
+gypsy                      |
+gothic rock                |
+gypsy punk                 |
+gothic americana           |X3
+glitch hop                 |
+glitch pop                 |
+grunge                     |X2
+hip hop                    |X3
+hard rock                  |X4
+idm                        |X4
+indie                      |X12
+indie rock                 |X24
 indie pop                                   |X2
 industrial rock                            |X3
 industrial metal                           |
@@ -240,10 +247,11 @@ jazz fusion                                 |
 jazz                                           |X6
 lo-fi                                          |X2
 metal                                    |
+metalcore                                 |
 noise rock                                 |
 new rave                                   |X6
 noir chanson                             |
-nu metal                                    |X2
+nu metal                                    |X4
 progressive_rock                             |X1       
 pub rock                                   |
 psychedelic                                |X2
@@ -280,7 +288,7 @@ singer songwriter                       |X2
 soundtrack                               |X3
 surf rock                                  |X3
 soft rock                                  |
-swing                                      |
+swing                                      |X2
 trip hop                                   |X3
 trancecore                               |
 witch house                              |
